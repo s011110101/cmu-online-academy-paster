@@ -3,6 +3,9 @@ This AppleScript enables students to paste their codes locally into the online j
 Used keyboard events to mimic human inputs and bypass the online judgers' detections.
 
 How to use:
-use safari browser to open the academic.cmu.edu login, and keep the cursor started in the typing box.
+use browsers to open the academy.cmu.edu and login, keep the cursor flashing / blinking in the code text box.
 Keep your keyboard in english and start the script.
 Click the continue to avoid crashing.
+
+
+Please leave your concerns in the Issues!
