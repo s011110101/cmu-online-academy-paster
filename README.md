@@ -1,5 +1,5 @@
 # cmu-online-academic-paster
-This AppleScript enables students to paste their codes locally into the online judgers of carnagie mellon university (CMU) academy.<br>
+This AppleScript enables students to paste their codes locally into the online judgers of [Carnegie Mellon University (CMU) academy](https://academy.cs.cmu.edu/ide).<br>
 Used keyboard events to mimic human inputs and bypass the online judgers' detections.<br>
 
 ### How to use:
